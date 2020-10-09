@@ -25,6 +25,7 @@
 /CMakeLists.txt.user.*
 api_doc
 /build*
+/cmake-build*
 debian/*.debhelper
 debian/*.substvars
 desktop.ini
